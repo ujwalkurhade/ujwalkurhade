@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/file/d/1UZX3cg-U4xaxBAR8qci-E9r0hswi4CF3/view" alt=""></img>
+![logo](https://drive.google.com/file/d/1UZX3cg-U4xaxBAR8qci-E9r0hswi4CF3/view)
 <h1 align="center">Hi 👋, I'm Ujwal Kurhade</h1>
 <h3 align="center">A passionate Frontend developer/ React Developer from India</h3>
 
