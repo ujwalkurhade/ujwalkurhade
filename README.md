@@ -1,4 +1,4 @@
-![logo](https://drive.google.com/file/d/1UZX3cg-U4xaxBAR8qci-E9r0hswi4CF3/view)
+![logo](https://github.com/ujwalkurhade/ujwalkurhade/blob/main/profile.jpg)
 <h1 align="center">Hi 👋, I'm Ujwal Kurhade</h1>
 <h3 align="center">A passionate Frontend developer/ React Developer from India</h3>
 
