@@ -1,4 +1,5 @@
-![logo](https://github.com/ujwalkurhade/ujwalkurhade/blob/main/profile.jpg)
+<!-- ![logo](https://github.com/ujwalkurhade/ujwalkurhade/blob/main/profile.jpg) -->
+<img src="https://github.com/ujwalkurhade/ujwalkurhade/blob/main/profile.jpg"></img>
 <h1 align="center">Hi 👋, I'm Ujwal Kurhade</h1>
 <h3 align="center">A passionate Frontend developer/ React Developer from India</h3>
 
