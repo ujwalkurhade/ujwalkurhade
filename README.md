@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **React Js**
 
-- 👯 I’m looking to collaborate on [Skyvision_Digital-markting](https://github.com/ujwalkurhade/Skyvision_Digital-Markting/tree/master)
+<!-- - 👯 I’m looking to collaborate on [Skyvision_Digital-markting](https://github.com/ujwalkurhade/Skyvision_Digital-Markting/tree/master) -->
 
-- 🤝 I’m looking for help with [Interactive-card-details](https://github.com/ujwalkurhade/interactive-card-details-using-React/tree/main)
+<!-- - 🤝 I’m looking for help with [Interactive-card-details](https://github.com/ujwalkurhade/interactive-card-details-using-React/tree/main) -->
 
 - 💬 Ask me about **React , Frontend Developer**
 
